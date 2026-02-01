@@ -25,7 +25,7 @@ We present **DriveWorld-VLA**, a tightly coupled framework where a world model s
 
 |          Method          |       NC       |      DAC      |       EP       |      TTC      |    Comfort    |      PDMS      |  Training Time  |   GPU Memory   |                                            Checkpoint                                            |
 | :----------------------: | :------------: | :------------: | :------------: | :------------: | :-----------: | :------------: | :--------------: | :-------------: | :----------------------------------------------------------------------------------------------: |
-| **DriveWorld-VLA** | **99.1** | **98.2** | **81.9** | **96.1** | **100** | **91.3** | **24 hrs** | **80 GB** | [📥 Download](https://drive.google.com/drive/folders/1dIHK8nXkzhIhGCRQOpKibaizwH-7fHqs?usp=sharing) |
+| **DriveWorld-VLA** | **99.1** | **98.2** | **81.9** | **96.1** | **100** | **91.3** | **24 hrs** | **80 GB** | [📥 Download](https://pan.baidu.com/s/1DuGLsuK6pAfT7loUb8pm3g?pwd=dvla) |
 
 *Training conducted on 8 NVIDIA H20 GPUs.*
 
