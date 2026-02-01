@@ -165,7 +165,7 @@ Visualization examples of nuScenes validation dataset. Top label: source of traj
 
 ## Acknowledgement
 
-ReCogDrive is greatly inspired by the following outstanding contributions to the open-source community: [NAVSIM](https://github.com/autonomousvision/navsim), [DPPO](https://github.com/irom-princeton/dppo), [LightningDiT](https://github.com/hustvl/LightningDiT), [DiffusionDrive](https://github.com/hustvl/DiffusionDrive), [WOTE](https://github.com/liyingyanUCAS/WoTE).
+DriveWorld-VLA is greatly inspired by the following outstanding contributions to the open-source community: [NAVSIM](https://github.com/autonomousvision/navsim), [DPPO](https://github.com/irom-princeton/dppo), [LightningDiT](https://github.com/hustvl/LightningDiT), [DiffusionDrive](https://github.com/hustvl/DiffusionDrive), [WOTE](https://github.com/liyingyanUCAS/WoTE).
 
 ## Citation
 
