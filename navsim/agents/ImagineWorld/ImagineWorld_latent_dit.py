@@ -159,7 +159,7 @@ class ImagineWorldLatentDiT(nn.Module):
     
     def sample_from_model(self, model, x_0, model_kwargs, args):
         #options = {"dtype": torch.float32,}
-        options = {"step_size": args.step_size, "perturb": args.perturb}
+        options = {"step_size": args.step_size/100, "perturb": args.perturb}
         t = torch.tensor([0.0, 1.0], device="cuda")
 
         def denoiser(t, x_0):
